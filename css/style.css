@@ -5,7 +5,7 @@
 }
 
 body {
-  background: linear-gradient(90deg, #310707,#4e1313);                                                                                   
+  background: linear-gradient(90deg, #330c0c,#521717);                                                                                   
   color: #fff;
   font-family: "Roboto", sans-serif;
 }
@@ -483,3 +483,4 @@ a {
   color: #777;
   font-style: italic;
 }
+
